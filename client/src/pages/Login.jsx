@@ -17,7 +17,7 @@ function Login() {
         https://taskforge-kmt0.onrender.com,
         {
           email,
-          password
+          password,
         }
       );
 
